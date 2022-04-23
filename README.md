@@ -8,7 +8,7 @@ Created with the intention of giving prospective employers or committee heads a 
 
 
 ## How It's Made:
-This website features an appropriate blend of personality with proffessional achievements.  The goal is to impress prospective employers and also showcase their ability for current projects they are a part of.
+This website features an appropriate blend of personality with proffessional achievements.  The goal is to impress prospective employers and also showcase their ability for current projects they are a part of or being considered for.
 
 **Tech used:** 
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>

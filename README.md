@@ -18,6 +18,6 @@ This website features an appropriate blend of personality with proffessional ach
 
 ## Future Plans:
 
-- ~~Build out other pages
-- ~~Finish "Recent Projects"
+- ~~Build out other pages~~
+- ~~Finish "Recent Projects"~~
 - Push updated Resume

@@ -20,4 +20,5 @@ This website features an appropriate blend of personality with proffessional ach
 
 - ~~Build out other pages~~
 - ~~Finish "Recent Projects"~~
+- Fix PDFs on mobile
 - Push updated Resume

@@ -1,0 +1,23 @@
+{
+  "name": "architecturalhistorian",
+  "version": "1.0.0",
+  "description": "Created with the intention of giving prospective employers or committee heads a place of reference for their work.",
+  "main": "pdf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshabc4/ArchitecturalHistorian.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshabc4/ArchitecturalHistorian/issues"
+  },
+  "homepage": "https://github.com/harshabc4/ArchitecturalHistorian#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-webserver": "^0.9.1"
+  }
+}

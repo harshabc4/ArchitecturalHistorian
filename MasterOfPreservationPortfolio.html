@@ -38,7 +38,24 @@
 									<h1>Master of Preservation Portfolio</h1>
 									<span><a href="assets/pdfs/Price_Portfolio_dec2018.pdf" target="_blank">Click here for file</a></span>
 								</header>
-								<embed class="pdf-page" src="assets/pdfs/Price_Portfolio_dec2018.pdf" type="application/pdf">
+								<!-- <embed class="pdf-page" src="assets/pdfs/Price_Portfolio_dec2018.pdf" type="application/pdf"> -->
+									<embed class="pdf-page" src="assets/pdfs/Price_Portfolio_dec2018.pdf" type="application/pdf">
+									<!-- <canvas id="my_canvas"></canvas>
+									<script>
+										pdfjsLib.getDocument('/assets/pdfs/Price_Portfolio_dec2018.pdf').then(doc => {
+											doc.getPage(1).then(page => {
+												var myCanvas = document.getElementbyId("my_canvas");
+												var context = myCanvas.getContext("2d");
+												var viewport=page.getViewport(1);
+												myCanvas.width = viewport.width;
+												myCanvas.height=viewport.height;
+												page.render({
+													canvasContext: context,
+													viewport: viewport,
+												});
+											});
+										});
+										</script> -->
 
 						
 
@@ -71,7 +88,7 @@
 								</header>
 								<ul>
 									<li><a href="index.html">Homepage</a></li>
-									<li><a href="MasterOfPreservationPortfolio.html">Master of Preservation Portfolio</a></li>
+									<li><a href="assets/pdfs/Price_Portfolio_dec2018.pdf">Master of Preservation Portfolio</a></li>
 									<li><a href="FinalPracticumReport.html">Final Practicum Report</a></li>
 									<li>
 										<span class="opener">Recent Projects</span>
